@@ -7,4 +7,5 @@ Image pre-processing is a critical stage in computer vision systems, with greate
 
 ## Notes
 1. Send email to maldonadoq.percy@gmail.com if you have critical issues to be addressed.
-2. Our implementation of Image dehazing using morphological opening, dilation and Gaussian filtering paper.
+2. This is an unofficial Python implementation of the paper.
+3. Our implementation of Image dehazing using morphological opening, dilation and Gaussian filtering.
